@@ -34,27 +34,12 @@ layout: default
             height: 100%;
             width: 100%;
           }
-
-          .drop-cap:first-letter {
-            /* Display at the left */
-            float: left;
-            line-height: 1;
-
-            /* Spacing */
-            margin: 0 0.5rem 0 0;
-            padding: 0 0.5rem;
-
-            /* Optional */
-            border: 2px solid #f0f8ff;
-            font-size: 2rem;
-            font-weight: 700;
-          }
         </style>
       </header>
 
       <article>
         <h2 style="color: inherit;font-size: 30px;font-weight: bolder;">About</h2>
-        <div class="drop-cap" style="font-size: 17PX;font-family: Arial, Helvetica, sans-serif">
+        <div style="font-size: 17PX;font-family: Arial, Helvetica, sans-serif">
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
