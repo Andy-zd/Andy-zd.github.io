@@ -73,8 +73,10 @@ layout: default
           <!-- News -->
           {% if page.news -%}
           <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;font-size: 30px;">News</a></h2>
+          <div style="font-size: 15px;">
           {%- include news.html %}
           {%- endif %}
+          </div>
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
