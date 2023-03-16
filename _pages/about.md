@@ -19,5 +19,3 @@ social: true  # includes social icons at the bottom of the page
   I’m currently a second-year M.S. student in Fudan University. My recent work lies in computer vision, including 3D reconstruction and simulation. My interests include 3D vision and gernerative models.
 
   Previously, I got my bachelor degree in School of Mathematical Sciences, Fudan University in June 2021. 
-
-(Still working on this page.)
