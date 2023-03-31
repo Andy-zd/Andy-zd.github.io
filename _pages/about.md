@@ -17,5 +17,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
   I’m currently a second-year M.S. student in Fudan University, working in [Zhang Vision Group](https://fudan-zvg.github.io/), supervised by [Feihu Zhang](http://www.feihuzhang.com/) and [Li Zhang](https://www.robots.ox.ac.uk/~lz/). Previously, I got my bachelor degree in School of Mathematical Sciences, Fudan University in June 2021.   
-  My recent work lies in computer vision, including 3D reconstruction, simulation and generative models. My interests include 3D vision, gernerative models and pattern recognition.
+  My recent work lies in computer vision, including 3D reconstruction, simulation and generative models. My interests include 3D vision, generative models and pattern recognition.
 
