@@ -6,7 +6,7 @@ subtitle: Graduate in School of Mathmetical Sciences, Fudan University
 
 profile:
   align: right
-  image: me.JPG
+  image: me_.jpeg
   image_circular: false # crops the image to make it circular
   address: >
       Shanghai, China
