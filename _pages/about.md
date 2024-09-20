@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate in School of Mathmetical Sciences, Fudan University
+subtitle: Ph.D student, UC Riverside
 
 profile:
   align: right
-  image: me.JPG
+  image: Me.JPG
   image_circular: false # crops the image to make it circular
   address: >
-      Shanghai, China
+      Riverside, CA
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-  I’m currently a member in [TASL](https://tasl.ucr.edu/), supervised by [Jiachen Li](https://jiachenli94.github.io/). I worked as a research assistant in [Zhang Vision Group](https://fudan-zvg.github.io/), supervised by [Feihu Zhang](http://www.feihuzhang.com/) and [Li Zhang](https://www.robots.ox.ac.uk/~lz/). I also spent four months as a visiting graduate researcher at the University of California, Los Angeles, under the supervision of [Bolei Zhou](https://boleizhou.github.io/). Previously, I got my bachelor degree in School of Mathematical Sciences, Fudan University in June 2021 and my master degree in School of Mathematical Sciences, Fudan University in June 2024.   
+  I’m currently a first-year PhD student at University of California, Riverside, supervised by [Jiachen Li](https://jiachenli94.github.io/). I worked as a research assistant in [Zhang Vision Group](https://fudan-zvg.github.io/) during my master career. I also spent four months as a visiting graduate researcher at the University of California, Los Angeles, under the supervision of [Bolei Zhou](https://boleizhou.github.io/). Previously, I obtained my bachelor degree and master degree in School of Mathematical Sciences, Fudan University in 2021 and 2024 respectively.   
 
-  My recent work lies in computer vision, including 3D reconstruction, simulation and generative models. My interests include generative models, and 3D vision.
+  My current interests include robotics, generative models, and 3D vision. And I believe Sim-to-Real is the way to intelligent agents. 
 
