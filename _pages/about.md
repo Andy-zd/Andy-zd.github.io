@@ -6,7 +6,7 @@ subtitle: Ph.D student, UC Riverside
 
 profile:
   align: right
-  image: Me.JPG
+  image: me.JPG
   image_circular: false # crops the image to make it circular
   address: >
       Riverside, CA
